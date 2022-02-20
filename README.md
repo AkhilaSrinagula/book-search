@@ -28,8 +28,12 @@ Navigate to the server directory
 
 ## GitHub Repo Link:
 
-
+https://github.com/AkhilaSrinagula/book-search.git
 
 ## Deployed Link:
 
+https://sheltered-brook-89050.herokuapp.com/
 
+## Questions
+
+If you have any questions about the project, contact me at akhilasrinagula@gmail.com
